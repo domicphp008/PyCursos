@@ -1,5 +1,5 @@
 '''
-    Repetições anonhadas
+    Repetições aninhadas
 
     Imprima as tabuadas de 1 a 10
 
